@@ -1,3 +1,5 @@
-# Hello everyone
-## If you are looking at this line.
 # 媒体实验室
+## 说明
+目前就先作为我项目的一个汇总地。
+以后的计划是设计更多好玩的小项目上来，感兴趣的朋友可以来follow我。
+
