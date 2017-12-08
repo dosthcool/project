@@ -8,7 +8,7 @@
   
     
 ## 目录
-- [**Club projects**](## Club)
+- [**Club projects**](##Club)
 - [书签](http://dosthcool.roughdraft.io)  
 
 ## Club
@@ -25,9 +25,9 @@
   
 ## Work
 
-[ :up: ](## 目录)
+[ :up: ](##目录)
 
   
 That's all.
   
-[ :up: ](## 目录)
+[ :up: ](##目录)
