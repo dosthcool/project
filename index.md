@@ -8,9 +8,9 @@
 - [书签][3] 
 
 ## Club
-- 在线简历 Online CV[click][4]
-- 作品集 Online Profile[click][5]
-- 有问有答 Questions[click][6]
+- 在线简历 Online CV - [click][4]
+- 作品集 Online Profile - [click][5]
+- 有问有答 Questions - [click][6]
   
 ## Work
 - 2014/2-2014/3
