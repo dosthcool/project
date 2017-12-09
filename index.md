@@ -1,123 +1,79 @@
----
-layout: default
----
+## Info
+> Hello！我是枣子，一名设计师。
+> 以后的计划是设计更多好玩的小项目放上来。
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Menu
+- [**Club projects**][1]
+- [**Work History**][2]
+- [书签][3] 
+
+## Club
+- 在线简历 Online CV[click][4]
+- 作品集 Online Profile[click][5]
+- 有问有答 Questions[click][6]
+  
+## Work
+- 2014/2-2014/3
+	1.WEB——“萄醉时光” 葡萄酒电商。
+
+- 2014/8-2014/11
+	2.WEB——“爱摄影” 摄影艺术品网站。
+	  
+- 2015/3-2015/4 
+	3.App ——“独占者/Owner”
+	真实地图领地占领游戏。
+
+- 2015/6-2015/8 
+	4.App——“顾小烦”
+	心理咨询一对一线上沟通产品。
+
+- 2015/1-2015/3 
+	5.PC——“Quoteboard”
+	银行间固定收益市场的实时报价平台软件。
+
+- 2016/5-2016/7
+	6.App——“Gala360”
+	360照片视频分享。
+	  
+- 2016/8-2016/11
+	7.App——“悦信”
+	一个小地方的特色产品积分兑换商场。
+
+- 2016/8-2017/3
+	8.WEB——“SAP”数个项目
+	2B商务企业内部管理网站。
+	  
+- 2017/3-2017.4
+	9.App——“鬼脸对讲机”
+	熟人离线视频社交。
+	  
+- 2017/4-2017/5
+	10.App——“丢丢”
+	陌生人视频社交。
+	  
+- 2017/6-2017/10
+	11.App——保密项目
+	私单项目。
+	  
+- 2017/10-now
+	12.App——“零时空”
+	电脑维修届的滴滴。
+	  
+- 2017/11-Now
+	13.Web——“零时空”
+	后台操作系统设计，已上线。
+	  
+[ 返回最上 ][7]
+
+  
+That's all.
+
+[1]:	#club
+[2]:	#work
+[3]:	http://dosthcool.roughdraft.io
+[4]:	https://dosthcool.github.io/cho-moon.html
+[5]:	https://dosthcool.github.io
+[6]:	https://dosthcool.github.io/questions.html
+[7]:	#menu
 
 [Link to another page](another-page).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
