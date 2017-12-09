@@ -1,10 +1,8 @@
-<<<<<<< HEAD:README.markdown
 ---- 
 # 媒体实验室
 ---- 
 > Hello！我是枣子，一名设计师。
-> 
-以后的计划是设计更多好玩的小项目放上来。
+> 以后的计划是设计更多好玩的小项目放上来。
 
 ---- 
 ## 目录
@@ -14,7 +12,6 @@
 > 以后的计划是设计更多好玩的小项目放上来。
 
 ## Menu
->>>>>>> origin/master:README.md
 - [**Club projects**][1]
 - [**Work History**][2]
 - [书签][3] 
@@ -22,8 +19,7 @@
 ## Club
 - 在线简历 Online CV[click][4]
 - 作品集 Online Profile[click][5]
-<<<<<<< HEAD:README.markdown
--  有问有答 Questions[click][6]
+- 有问有答 Questions[click][6]
 ---- 
 ## Work History
 =======
@@ -32,7 +28,6 @@
 - 有问有答 Questions[click][6]
 
 ## Work
->>>>>>> origin/master:README.md
 - 2014/2-2014/3
 	1.WEB——“萄醉时光” 葡萄酒电商。
 
