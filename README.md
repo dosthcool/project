@@ -1,3 +1,4 @@
+<<<<<<< HEAD:README.markdown
 ---- 
 # 媒体实验室
 ---- 
@@ -7,16 +8,31 @@
 
 ---- 
 ## 目录
+=======
+## Info
+> Hello！我是枣子，一名设计师。
+> 以后的计划是设计更多好玩的小项目放上来。
+
+## Menu
+>>>>>>> origin/master:README.md
 - [**Club projects**][1]
 - [**Work History**][2]
 - [书签][3] 
----- 
+
 ## Club
 - 在线简历 Online CV[click][4]
 - 作品集 Online Profile[click][5]
+<<<<<<< HEAD:README.markdown
 -  有问有答 Questions[click][6]
 ---- 
 ## Work History
+=======
+	  
+	  
+- 有问有答 Questions[click][6]
+
+## Work
+>>>>>>> origin/master:README.md
 - 2014/2-2014/3
 	1.WEB——“萄醉时光” 葡萄酒电商。
 
@@ -67,16 +83,15 @@
 	13.Web——“零时空”
 	后台操作系统设计，已上线。
 	  
----- 
 [ 返回最上 ][7]
 
   
 That's all.
 
-[1]:	##Club
-[2]:	##%20Work%20History
+[1]:	#club
+[2]:	#work
 [3]:	http://dosthcool.roughdraft.io
 [4]:	https://dosthcool.github.io/cho-moon.html
 [5]:	https://dosthcool.github.io
 [6]:	https://dosthcool.github.io/questions.html
-[7]:	##%E7%9B%AE%E5%BD%95
+[7]:	#menu
