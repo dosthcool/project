@@ -1,11 +1,13 @@
-## Info
 > Hello！我是枣子，一名设计师。  
 > 以后的计划是设计更多好玩的小项目放上来。
+
+## Notes
+[Link to another page](another-page).
 
 ## Menu
 - [**Club projects**][1]
 - [**Work History**][2]
-- [书签][3] 
+- [**About Me**][3] 
 
 ## Club
 - 在线简历 Online CV - [click][4]
@@ -75,5 +77,3 @@ That's all.
 [5]:	https://dosthcool.github.io
 [6]:	https://dosthcool.github.io/questions.html
 [7]:	#menu
-
-[Link to another page](another-page).
