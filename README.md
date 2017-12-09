@@ -73,10 +73,10 @@
   
 That's all.
 
-[1]:	#Club
-[2]:	#Work
+[1]:	#club
+[2]:	#work
 [3]:	http://dosthcool.roughdraft.io
 [4]:	https://dosthcool.github.io/cho-moon.html
 [5]:	https://dosthcool.github.io
 [6]:	https://dosthcool.github.io/questions.html
-[7]:	#Menu
+[7]:	#menu
