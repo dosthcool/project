@@ -2,11 +2,11 @@
 > 以后的计划是设计更多好玩的小项目放上来。
   
 ### Menu
-- [**Club projects**][1]
-- [**Work History**][2]
-- [**About Me**][3] 
+ [**Club projects**][1]
+ [**Work History**][2]
+ [**About Me**][3] 
   
-### Club Website
+### Club
 - 在线简历 Online CV - [click][4]
 - 作品集 Online Profile - [click][5]
 - 有问有答 Questions - [click][6]
@@ -16,11 +16,11 @@
   
 
   
+That's all.
+  
 
 [ 返回最上 ][7]
 
-  
-That's all.
 
 [1]:	#club
 [2]:	#work
