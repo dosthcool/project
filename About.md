@@ -5,6 +5,12 @@ layout: default
 ## About Me
 > 怎么写一个网站呢？
 
+<audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+您的浏览器不支持 audio 元素。
+</audio>
+
 ### Work
 - 2014/2-2014/3
 	“萄醉时光” 
