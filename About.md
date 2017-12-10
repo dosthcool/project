@@ -2,17 +2,10 @@
 layout: default
 ---
 
-## About Me
-> 怎么写一个网站呢？
-### 小情歌 前奏部分：
+## About me
+> 纯粹喜欢视觉带给我的喜悦，喜欢设计师这份工作，能带给他人更多。
 
-<audio controls>
-	<source src="https://dosthcool.github.io/project/assets/audio/littlelovesong.m4a" type="audio/mpeg">
-	<source src="https://dosthcool.github.io/project/assets/audio/littlelovesong.mp3" type="audio/mpeg">
-您的浏览器不支持 audio 元素。
-</audio>
-
-### Work
+### work
 - 2014/2-2014/3
 	“萄醉时光” 
 
