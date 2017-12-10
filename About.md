@@ -6,8 +6,7 @@ layout: default
 > 怎么写一个网站呢？
 
 <audio controls>
-  <source src="horse.ogg" type="audio/ogg">
-  <source src="horse.mp3" type="audio/mpeg">
+<source src="assets/audio/littlelovesong.m4a" type="audio/m4a">
 您的浏览器不支持 audio 元素。
 </audio>
 
