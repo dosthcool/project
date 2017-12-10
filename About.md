@@ -6,7 +6,7 @@ layout: default
 > 怎么写一个网站呢？
 
 <audio controls>
-<source src="assets/audio/littlelovesong.m4a" type="audio/m4a">
+	<source src="/project/assets/audio/littlelovesong.m4a" type="audio/m4a">
 您的浏览器不支持 audio 元素。
 </audio>
 
