@@ -4,9 +4,10 @@ layout: default
 
 ## About Me
 > 怎么写一个网站呢？
+### 小情歌 前奏部分：
 
 <audio controls>
-	<source src="https://dosthcool.github.io/project/assets/audio/littlelovesong.m4a" type="audio/m4a">
+	<source src="https://dosthcool.github.io/project/assets/audio/littlelovesong.MP3" type="audio/MP3">
 您的浏览器不支持 audio 元素。
 </audio>
 
