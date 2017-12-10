@@ -3,7 +3,7 @@
 > 以后的计划是设计更多好玩的小项目放上来。
   
 
- [**Links**][1] |  [**Work History**][2] |  [**About Me**][3] 
+ [**About Me**][3] | [**Links**][1] 
   
 
 ### Notes
