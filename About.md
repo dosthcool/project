@@ -7,7 +7,8 @@ layout: default
 ### 小情歌 前奏部分：
 
 <audio controls>
-	<source src="https://dosthcool.github.io/project/assets/audio/littlelovesong.MP3" type="audio/mpeg">
+	<source src="https://dosthcool.github.io/project/assets/audio/littlelovesong.m4a" type="audio/mpeg">
+	<source src="https://dosthcool.github.io/project/assets/audio/littlelovesong.mp3" type="audio/mpeg">
 您的浏览器不支持 audio 元素。
 </audio>
 
