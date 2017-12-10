@@ -8,12 +8,12 @@
 
 ### Notes
 [我的尤克里里音乐创作](music).
-  
+  | 
 ### Club
 - 在线简历 Online CV - [click][4]
 - 作品集 Online Profile - [click][5]
 - 有问有答 Questions - [click][6]
-  
+  |
   
 That's all.
   
