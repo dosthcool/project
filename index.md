@@ -2,14 +2,14 @@
 > Hello！我是枣子，设计师。这里是我的存货地。  
 > 以后的计划是设计更多好玩的小项目放上来。
 
-
+![bg](assets/pic/empty.png)
 
 ###### Notes
 
 ### [我的尤克里里练习](music).2017-12-10
 ### [我做过的实战设计项目][3] .2017-12-09
 
-
+![bg](assets/pic/empty.png)
 
 
 ###### Club
@@ -18,7 +18,7 @@
 - 有问有答 Questions - [click][6]
 
 
-
+![bg](assets/pic/empty.png)
 
 
 
