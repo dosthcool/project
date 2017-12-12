@@ -9,7 +9,7 @@ layout: default
 
 
 
-![bg](/assets/pic/Image.png)
+![bg](assets/pic/empty.png)
 
 
 ##### work
