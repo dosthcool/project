@@ -8,7 +8,11 @@ layout: default
 > 纯粹喜欢视觉带给我的喜悦，喜欢设计师这份工作，能带给他人更多。
 
 
+
+
+
 ### work
+
 - 2014/2-2014/3
   “萄醉时光” 
 - 2014/8-2014/11
@@ -49,5 +53,7 @@ layout: default
 
 
 tag `work` `exprience`
+
+@(chomoon)[work|ww]
 
 [<  back](./)
