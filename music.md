@@ -12,14 +12,14 @@ layout: default
 您的浏览器不支持 audio 元素。
 </audio>
   
-----
+  
   
 ###### 旅行的意义
 <audio controls>
 	<source src="https://dosthcool.github.io/project/assets/audio/travel.m4a" type="audio/mpeg">
 您的浏览器不支持 audio 元素。
 </audio>
-
+  
   
   
 That's all.
