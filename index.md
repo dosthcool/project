@@ -2,14 +2,14 @@
 > Hello！我是枣子，设计师。这里是我的存货地。  
 > 以后的计划是设计更多好玩的小项目放上来。
 
-![bg](assets/pic/empty.png)
+![bg][image-1]
 
 ###### Notes
 
-### [我的尤克里里练习](music).2017-12-10
-### [我做过的实战设计项目][3] .2017-12-09
-
-![bg](assets/pic/empty.png)
+### [我的尤克里里练习][1].2017-12-10
+### [我做过的实战设计项目][2] .2017-12-09
+### [ 我的所有设计作品集 ][3].2017-12-13
+![bg][image-2]
 
 
 ###### Club
@@ -18,7 +18,7 @@
 - 有问有答 Questions - [click][6]
 
 
-![bg](assets/pic/empty.png)
+![bg][image-3]
 
 
 
@@ -31,11 +31,14 @@ That's all.
 
 
 
-[1]:	#club
-[2]:	#work
-[3]:	about
+[1]:	music
+[2]:	about
+[3]:	https://www.behance.net/cherrycaow6e69 "behance"
 [4]:	https://dosthcool.github.io/cho-moon.html
 [5]:	https://dosthcool.github.io
 [6]:	https://dosthcool.github.io/questions.html
 [7]:	#top
 
+[image-1]:	assets/pic/empty.png
+[image-2]:	assets/pic/empty.png
+[image-3]:	assets/pic/empty.png
