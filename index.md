@@ -9,7 +9,7 @@
 ### [我的尤克里里练习][1].2017-12-14
 
 `2017-12-14 updated`
-
+![bg][image-4]
 ### [在哪里有一个真的我][2] .2017-12-09
 
 `2017-12-09 updated`
@@ -48,3 +48,4 @@ That's all.
 [image-1]:	assets/pic/empty.png
 [image-2]:	assets/pic/empty.png
 [image-3]:	assets/pic/empty.png
+[image-3]:	assets/pic/empty1.png
