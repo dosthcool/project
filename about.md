@@ -11,10 +11,15 @@ layout: default
 ![bg][image-1]
 ### 和我一起做项目
 如果你这有有趣的项目，但是缺少一个合适的设计师，你不妨考虑一下我。
-把你的项目概述给我，如果有意思的话，我考虑会免费给您设计！[邮件 📧][1]
-If you have interesting project,you can give a look in email.
-Maybe I will try my best to do it for free. [Mail 📧][2]
+把你的项目概述给我，如果有意思的话，我考虑会免费给您设计！
+[邮件 📧][1]
+  
 ![bg][image-2]
+If you have interesting project,you can give a look in email.
+Maybe I will try my best to do it for free. 
+[Mail 📧][2]
+ 
+![bg][image-3]
 
 
 
@@ -26,3 +31,4 @@ Maybe I will try my best to do it for free. [Mail 📧][2]
 
 [image-1]:	assets/pic/empty.png
 [image-2]:	assets/pic/empty.png
+[image-3]:	assets/pic/empty.png
