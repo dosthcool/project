@@ -19,17 +19,6 @@
 
 ![bg][image-3]
 
-
-###### Club
-- 在线简历 Online CV - [click][4]
-- 作品集 Online Profile - [click][5]
-- 有问有答 Questions - [click][6]
-
-
-![bg][image-5]
-
-
-
 That's all.
 
 
@@ -41,10 +30,8 @@ That's all.
 
 [1]:	music
 [2]:	about
-[3]:	https://www.behance.net/cherrycaow6e69 "behance"
-[4]:	https://dosthcool.github.io/cho-moon.html
-[5]:	https://dosthcool.github.io
-[6]:	https://dosthcool.github.io/questions.html
+
+
 [7]:	#top
 
 [image-1]:	assets/pic/empty.png
