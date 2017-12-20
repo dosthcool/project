@@ -8,7 +8,7 @@ layout: default
 > 纯粹喜欢视觉带给我的喜悦，喜欢设计师这份工作，付出更快乐。
 
 
-![bg][image-1]
+![bg](assets/pic/empty.png)
 ### 和我一起做项目
 如果你这有有趣的项目，但是缺少一个合适的设计师，你不妨考虑一下我。  
 把你的项目概述给我，如果有意思的话，我考虑会免费给您设计！  
@@ -16,16 +16,8 @@ layout: default
 
 If you have interesting project, you can give a look in email.  
 Maybe I will try my best to do it for free.   
-[Mail to me 📧][1]  
+[Mail to me 📧](mailto:cherrycaowen@gmail.com) 
 
-![bg][image-2]
+![bg](assets/pic/empty.png)
 
-
-
-[\<  back][2]
-
-[1]:	mailto:cherrycaowen@gmail.com "给我发邮件"
-[2]:	./
-
-[image-1]:	assets/pic/empty.png
-[image-2]:	assets/pic/empty.png
+[< back](./)
