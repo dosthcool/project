@@ -17,7 +17,9 @@
 ### [ 我的所有设计 ][3].behance
 ![bg][image-4]
 
+![bg][image-6]
 
+![bg][image-4]
 ###### Club
 - 在线简历 Online CV - [click][4]
 - 作品集 Online Profile - [click][5]
@@ -50,3 +52,4 @@ That's all.
 [image-3]:	assets/pic/empty.png
 [image-4]:	assets/pic/empty.png
 [image-5]:	assets/pic/empty.png
+[image-6]:	assets/pic/header.jpg
