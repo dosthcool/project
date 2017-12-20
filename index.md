@@ -3,20 +3,21 @@
  `2017-12-14 updated`
 
 ### 每周学习一首新歌 · 2017.12.14
+最近在学《七月上》
+
 [More][1]  
 
 ![bg][image-2]
 
 `2017-12-20 updated`
 ### 关于有意思的项目合作· 2017.12.20
+很乐意为有趣的项目消费时光
+
 [More][2]  
 
 
 
 ![bg][image-3]
-###  我的所有设计...
-![bg][image-4]
-
 
 
 ###### Club
@@ -47,7 +48,7 @@ That's all.
 [7]:	#top
 
 [image-1]:	assets/pic/empty.png
-[image-2]:	assets/pic/empty.png
+[image-2]:	assets/pic/empty1.png
 [image-3]:	assets/pic/empty.png
 [image-4]:	assets/pic/empty.png
 [image-5]:	assets/pic/empty.png
