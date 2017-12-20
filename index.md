@@ -52,4 +52,4 @@ That's all.
 [image-3]:	assets/pic/empty.png
 [image-4]:	assets/pic/empty.png
 [image-5]:	assets/pic/empty.png
-[image-6]:	assets/pic/header.jpg
+[image-6]:	assets/pic/header.JPG
