@@ -15,8 +15,6 @@
 
 [More][2]  
 
-[more](project)
-
 ![bg][image-3]
 
 That's all.
