@@ -10,7 +10,8 @@ layout: default
 
 Smile 1 | Smile 2 | Smile 3 | Smile 4 | Smile 5
 ---|---
-![pic1](assets/pic/Image.png) | row2 | 3 | 4| 5
+![pic1](assets/pic/Image.png) | ![pic1](assets/pic/Image.png) | ![pic1](assets/pic/Image.png) | ![pic1](assets/pic/Image.png)| ![pic1](assets/pic/Image.png)
+
 row 2 | row 2 | 3 | 4 | 5
 
 
