@@ -5,7 +5,7 @@
 ### 任务 · 奇思妙想
 奇思妙想的任务
 
-[More][project]  
+[More][1]  
 
 ![bg][image-1]
 
@@ -14,36 +14,32 @@
 ### 每周学习 · 一首新歌
 最近在学《七月上》
 
-[More][1]  
+[More][2]  
 
-![bg][image-1]
+![bg][image-2]
 
 `2017-12-20 updated`
 ### 关于 · 项目合作
 很乐意为有趣的项目消费时光
 
-<<<<<<< HEAD
-[More][2]  
+[More][3]
 
 ![bg][image-3]
-=======
-[More][2]
-
-![bg][image-2]
->>>>>>> 1305602a00b528881d2f7c2fbd2efea91a61819e
 
 That's all.
 
 
 
-[ TOP ][3]
+[ TOP ][4]
 
 
 
 
-[1]:	music
-[2]:	about
-[3]:	#top
+[1]:	project
+[2]:	music
+[3]:	about
+[4]:	#top
 
 [image-1]:	assets/pic/empty1.png
-[image-2]:	assets/pic/empty.png
+[image-2]:	assets/pic/empty1.png
+[image-3]:	assets/pic/empty.png
