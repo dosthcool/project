@@ -10,9 +10,9 @@ layout: default
 
 Smile 1 | Smile 2 | Smile 3 | Smile 4 | Smile 5
 ---|---
-2017.12.24 | ![pic1](assets/pic/IMG_2.JPG) | ![pic1](assets/pic/IMG_3.JPG) | ![pic1](assets/pic/IMG_4.JPG)| ![pic1](assets/pic/IMG_5.JPG)
+2017.12.24 | ![pic1](assets/pic/IMG_2.JPG) | ![pic1](assets/pic/IMG_3.JPG) | ![pic1](assets/pic/IMG_4.JPG)| ![pic1](assets/pic/IMG_1.JPG)
 
-row 2 | row 2 | 3 | 4 | 5
+2017.10.31 | ![pic1](assets/pic/IMG_5.JPG)  | ![pic1](assets/pic/IMG_6.JPG)  | ![pic1](assets/pic/IMG_7.JPG)  | ![pic1](assets/pic/IMG_8.JPG) 
 
 
 [\<   back][1]
