@@ -8,11 +8,13 @@ layout: default
 
 ![bg][image-1]
 
-Smile 1 | Smile 2 | Smile 3 | Smile 4 | Smile 5
+Date | Smile 1 | Smile 2 | Smile 3 | Smile 4
 ---|---
 2017.12.24 | ![pic1](assets/pic/IMG_2.JPG) | ![pic1](assets/pic/IMG_3.JPG) | ![pic1](assets/pic/IMG_4.JPG)| ![pic1](assets/pic/IMG_1.JPG)
 
-2017.10.31 | ![pic1](assets/pic/IMG_5.JPG)  | ![pic1](assets/pic/IMG_6.JPG)  | ![pic1](assets/pic/IMG_7.JPG)  | ![pic1](assets/pic/IMG_8.JPG) 
+2017.10.31 | ![pic1](assets/pic/IMG_5.jpg)  | ![pic1](assets/pic/IMG_6.JPG)  | ![pic1](assets/pic/IMG_7.JPG)  | ![pic1](assets/pic/IMG_8.JPG) 
+
+2017.8.30 | ![pic1](assets/pic/IMG_9.jpg)  | ![pic1](assets/pic/IMG_10.JPG)  | ![pic1](assets/pic/IMG_11.JPG)  | ![pic1](assets/pic/IMG_12.JPG) 
 
 
 [\<   back][1]
