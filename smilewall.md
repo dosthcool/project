@@ -18,6 +18,8 @@ Date | Smile 1 | Smile 2 | Smile 3 | Smile 4
 
 2017.6.30 | ![pic1](assets/pic/IMG_13.JPG)  | ![pic1](assets/pic/IMG_14.JPG)  | ![pic1](assets/pic/IMG_15.JPG)  | ![pic1](assets/pic/IMG_16.JPG) 
 
+![bg][image-1]
+
 [\<   back][1]
 
 [1]:	./
