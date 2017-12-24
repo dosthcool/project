@@ -8,10 +8,10 @@ layout: default
 
 ![bg][image-1]
 
-header 1 | header 2
+Smile 1 | Smile 2 | Smile 3 | Smile 4 | Smile 5
 ---|---
-row 1 | row1
-row 2 | row 2
+![pic1](assets/pic/Image.png) | row2 | 3 | 4| 5
+row 2 | row 2 | 3 | 4 | 5
 
 
 [\<   back][1]
