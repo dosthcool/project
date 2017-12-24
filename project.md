@@ -8,7 +8,7 @@ layout: default
 
 1. 收集周围的绿色
 2. 给一年后的自己写一封信（每年年终）
-3. 收集所有自己的笑脸（笑脸墙）
+3. 收集所有自己的笑脸（笑脸墙）[go beta](smilewall)
 
 ![bg](assets/pic/empty.png)
 
