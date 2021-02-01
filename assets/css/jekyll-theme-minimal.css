@@ -124,9 +124,9 @@ img {
 }
 
 header {
-  /*width:270px;*/
-  float:top;
-  position:fixed;
+  width:100%;
+  /*float:top;*/
+  /*position:fixed;*/
   -webkit-font-smoothing:subpixel-antialiased;
 }
 

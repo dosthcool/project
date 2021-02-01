@@ -36,8 +36,6 @@
 ![bg][image-3]
 
 
-<div id="umiwebchat-container"></div><script>var LandbotLiveConfig = { index: 'https://landbot.io/u/H-21940-M6YUWPQHQHWYRR4F/index.html', accent: '#f72b65' };</script><script src="https://static.helloumi.com/umiwebchat/umiwebchat.js" defer></script>
-
 
 That's all.
 
