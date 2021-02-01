@@ -9,7 +9,7 @@ body {
 }
 
 p{
-  font-size: 12px;
+  font-size: 14px;
   /*line-height: 0.5rem;*/
 }
 
@@ -27,24 +27,24 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:6rem;
+  font-size: 3rem;
   font-weight: 300;
 }
 
 h2 {
-  font-size: 3.75rem;
+  font-size: 2.75rem;
   font-weight: 300;
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
 
 h3 {
-  font-size: 3rem;
+  font-size: 2.25rem;
   font-weight: 200;
 }
 
 h4 {
-  font-size: 2.125rem;
+  font-size: 2rem;
   font-weight: 400;
 }
 
@@ -139,7 +139,7 @@ img {
 
 header {
   /*width:270px;*/
-  /*float:top;*/
+  /*float:left;*/
   /*position:fixed;*/
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -189,12 +189,14 @@ header ul a:active {
   background-color:#f0f0f0;
 }
 */
+
+
 strong {
   color:#222;
   font-weight:700;
 }
 
-header ul li + li + li {
+/*header ul li + li + li {
   border-right:none;
   width:89px;
 }
@@ -204,7 +206,7 @@ header ul a strong {
   display:block;
   color:#222;
 }
-
+*/
 section {
   /*width:500px;*/
   /*float:right;*/
