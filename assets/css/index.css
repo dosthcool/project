@@ -27,16 +27,17 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:6rem;
+  font-weight: 300;
 }
 
 h2 {
   color:#393939;
-  font-size: 24px;
+  font-size: 3.75rem;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 3rem;
   color:#494949;
 }
 
@@ -49,7 +50,7 @@ h5 {
 }
 
 h6 {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 a {
