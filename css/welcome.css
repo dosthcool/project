@@ -1,0 +1,482 @@
+/*links*/
+.body{
+	color: #565656;
+	font-family: 'sans-serif';
+}
+
+/*font*/
+
+@font-face {
+    /* font-properties */
+    font-family: 'Roboto';
+    src:url('../fonts/Roboto-Regular.ttf'),  
+    url('../fonts/Roboto-Medium.ttf'),
+    url('加载外部字体文件的文件地址'); /* IE9 */
+}
+
+
+#menu{
+	position:fixed;
+	right: 40px; 
+	bottom: 40px;
+	z-index: 999;
+}
+#menu a{
+	background-color: #666;
+}
+
+
+
+#menu .totop img:hover{
+	opacity: 0.6;
+}
+
+.MenuList .affix{
+	top: 40px;
+}
+
+.MenuList{
+	margin-top: 40px;
+}
+
+.totop{
+	color:#5c5c5c;
+	font-size: 16px;
+	margin-top: 80px;
+}
+
+code{
+	background-color: #F7E8EC;
+	color:#B38F97;
+	margin: 16px 0px;
+}
+
+
+.top a:hover{
+	opacity: 0.4;
+}
+
+.top .active{
+	color:#565656;
+	/*font-weight: 560;*/
+	/*border-bottom: 4px solid #F7C6D1;*/
+}
+
+.top .active a{
+	/*border-bottom: 2px solid #F7C6D1;*/
+}
+
+.pageheader p{
+	margin-top: 0px;
+}
+
+.project .piece{
+	text-decoration: none;
+	/*opacity: 0.4;*/
+	border-left:0px solid #F7C6D1;
+	transition:border-left 0.5s;
+	-webkit-transition:border-left 0.5s; /* Safari */
+}
+
+.project .piece:hover{
+	text-decoration:none;
+  	color:#565656;
+  	border-left: 12px solid #F7C6D1;
+  	padding-left: 12px;
+  	opacity: 1;
+}
+.project a > p{
+	text-decoration: none;
+	/*opacity: 0.4;*/
+	color:#565656;
+	font-weight: 500;
+	font-size: 24px;
+	
+}
+
+.project a{
+	text-decoration: none;
+}
+
+
+
+.WorkInfo li{
+	font-size: 11px;
+	color:#959695;
+	line-height: 16px;
+}
+
+section a{
+	text-decoration: none;
+	color:#565656;
+	border-bottom: 5px solid #F7C6D1;
+}
+
+section a:hover{
+	opacity: 0.8;
+}
+
+section p{
+	line-height: 20px;
+}
+
+
+.project span > small{
+	margin-right:12px;
+	font-size: 14px;
+}
+
+/*.project p:hover{
+	opacity: 1;
+  	text-decoration:none;
+  	color:#565656;
+  	border-left: 8px solid #F7C6D1;
+  	padding-left: 12px;
+}*/
+
+
+.footer a{
+	opacity: 0.4;
+}
+.footer a:hover{
+	opacity: 0.8;
+	border-bottom: 5px solid #F7C6D1;
+}
+.Say a:hover{
+	color: #F2709C;
+}
+.workfooter a{
+	opacity: 0.4;
+	color: #eee;
+}
+.workfooter a:hover{
+	opacity: 1;
+}
+.top .navbar-default .navbar-nav li a{
+	color: #565656;
+	font-size: 18PX;
+}
+
+.nav>li>a{
+	line-height: 20px;
+	margin: auto;
+	padding: 10px 20px;
+/*	height: 33%;*/
+
+}
+.gotolink a:hover{
+	margin-left: 10px; 
+	color: #FF95AC;
+}
+.morework a{
+	text-decoration: none;
+	color: #aaa;
+	/*font-weight: bold;*/
+}
+
+
+
+.intro a{
+	text-decoration: none;
+	color: #565656;
+	opacity: 0.5;
+	/*font-weight: 500;*/
+	/*font-family: 'Roboto';*/
+}
+
+.intro a:hover{
+	opacity: 1;
+	border-bottom: 5px solid #F7C6D1;
+}
+
+.intro code:hover{
+	background-color: #FFF5F8;
+}
+
+.intro p{
+	font-size: 18px;
+	line-height: 28px;
+	padding-top: 18px;
+}
+
+
+/*nav bar*/
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+	background-color: #fff;
+}
+
+.navbar{
+	background-color: #fff;
+	color:#BBB;
+	opacity: 0.8;
+}
+
+.navbar > .active{
+	opacity: 1;
+}
+
+
+.top{
+	margin: 36px 0px 16px 0px;
+	float: top;
+	/*position: fixed;*/
+}
+
+.top .container-fluid{
+	padding: 0;
+	background-color: #fff;
+/*	border-style: none; */
+}
+.top .navbar-header{
+	padding: 0;
+	background-color: #fff;
+/*	border: 0px;*/
+}
+.top .navbar-default{
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+
+.top span{
+	width: 100%;
+	margin: auto;
+}
+
+
+h1{
+	font-size: 36px;
+	color: #565656;
+	font-weight: 500;
+	font-family: 'Roboto', sans-serif;
+	
+}
+h2{
+	font-size: 32px;
+	/*margin-bottom: 18px;*/
+	margin-top: 80px;
+}
+h3{
+	font-size: 22px;
+	line-height: 24px;
+	margin-top: 0px;
+}
+h4{
+	font-size: 20px;
+	/*margin-top: 20px;*/
+}
+h5{
+	font-size: 18px;
+	/*color: #aaa;*/
+	font-weight: 200px;
+	
+}
+
+h6{
+	font-size: 14px;
+	/*color: #3C3C3C;*/
+	margin-top: 24px;
+/*	font-family: sans-serif;*/
+	font-weight: 100px;
+}
+
+p{
+	font-size: 16px;
+	line-height: 32px;
+	color: #565656;
+	letter-spacing: 0.3px;
+	/*margin: 24px 0px;*/
+}
+
+small{
+	color: #aaa;
+	margin-left: 4px;
+	font-size: 14px;
+	font-family: sans-serif;
+	line-height: 32px;
+}
+
+.Say big{
+	color: #FFCB59;
+}
+
+big{
+	font-size: 24px;
+	line-height: 36px;
+	font-weight: 4px;
+	margin-right: 4px;
+}
+
+
+
+.top li{
+	max-width: 728px;
+	line-height: 72px;
+}
+
+
+
+.project{
+	margin-top: 100px;
+}
+
+.card{
+	margin-top: 40px;
+	opacity: 0.9;
+}
+
+
+.card:hover{
+	opacity: 1;
+}
+
+.card-inside{
+	padding: 40px;
+	position: relative;
+	border: 1px solid #EEEEEE;
+	border-radius: 16px;
+	height: 600px;
+	font-weight: 600px;
+}
+
+
+.card-inside span{
+	font-size: 14px;
+	color:#959695;
+}
+
+.card-inside code{
+	margin-top: 16px;
+}
+
+.card-name{
+	display: none;
+	position: absolute;
+	width: 100%;
+	height: 54%;
+	color: #565656;
+	font-size: 16px;
+}
+
+
+.hover-content{
+	display: none;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	opacity: 0.9;
+	border-radius: 16px;
+}
+
+.card:hover .hover-content{
+	display: block;
+}
+.card:hover .card-name{
+	display: block;
+}
+
+
+.gotolink{
+	margin: 16px 0px;
+}
+
+.img-rounded{
+	border-radius: 20px;
+}
+
+/*.skill{
+	background-color: #F9F9FF;
+	padding: 40px 0px;
+	margin: 40px 0px;
+}*/
+
+.footer{
+	margin-top: 40px;
+	padding: 80px 0px;
+	font-size: 20px;
+	color: #979797;
+	/*background-color: #F8F9FB;*/
+
+}
+.footer li{
+	line-height: 32px;
+	margin-left: 16px;
+
+}
+
+.footer li a{
+	text-decoration: none;
+	/*color: #aaa;*/
+
+}
+
+.workfooter{
+	margin: 120px 0px;
+	font-size: 24px;
+	line-height: 24px;
+}
+.workfooter li{
+	margin-right: 32px;
+	margin-top: 24px;
+}
+.workfooter li a{
+	text-decoration: none;
+	color: #565656;
+}
+.workfooter .active{
+	color: #565656;
+	opacity: 1;
+}
+
+
+.morework{
+	margin-top: 40px;
+}
+
+
+#example-navbar-collapse{
+	border: 0px;
+}
+
+/*h1 特效*/
+
+/*@keyframes typing {
+	from{
+	width:0;
+	}
+}
+
+@keyframes blink-caret {
+	50% {
+	border-color:transparent;
+	}
+}
+
+.intro h1 {
+	font:bold 32px;
+	border-right:.1em solid;
+	width:16.5em;
+	
+		 width:230px;
+	
+		 margin:2em 0em;
+	white-space:nowrap;
+	overflow:hidden;
+	animation:typing 3s steps(30,end),
+	blink-caret .5s step-end infinite alternate;
+	
+}
+*/
+.illustration .center{
+	/*position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;*/
+}
+
+.photo img{
+	padding-top: 20px;
+}
