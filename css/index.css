@@ -37,8 +37,8 @@ p, ul, ol, table, pre, dl {
 h1 {
   font-size: 3rem;
   font-weight: 400;
-  border-bottom: 1px solid #DDD;
-  padding-bottom: 12px;
+  /*border-bottom: 1px solid #DDD;*/
+  /*padding-bottom: 12px;*/
 }
 
 h2 {
@@ -48,12 +48,12 @@ h2 {
 }
 
 h3 {
-  font-size: 2.2rem;
+  font-size: 2rem;
   font-weight: 200;
 }
 
 h4 {
-  font-size: 2rem;
+  font-size: 1.7rem;
   font-weight: 400;
 }
 
@@ -70,6 +70,8 @@ h6 {
 .time {
   color: #CCC;
   margin-top: 48px;
+  font-size: 1rem;
+  font-weight: 400;
 }
 
 button {
