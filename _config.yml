@@ -11,3 +11,4 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
 favicon: "favicon.ico"
+paginate: 5
