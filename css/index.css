@@ -38,6 +38,7 @@ h1 {
   font-size: 3rem;
   font-weight: 400;
   border-bottom: 1px solid #CCC;
+  padding-bottom: 4px;
 }
 
 h2 {
@@ -264,6 +265,10 @@ footer {
 
   header li, header ul li + li + li {
     width:33%;
+  }
+
+  h1,h2,h3,h4,h5,h6 {
+    font-size: 80%;
   }
 }
 
