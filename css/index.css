@@ -90,11 +90,12 @@ caption {
 
 a {
   text-decoration:none;
+  color: #565656;
 }
 
 
 a:hover, a:focus {
-  color:#565656;
+  color: #565656;
   border-bottom: 5px solid #F7C6D1;
 }
 
