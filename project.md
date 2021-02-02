@@ -2,12 +2,14 @@
 layout: default
 ---
 
-[<   back](./)
 
-## 所有MD格式样式表
+# 所有MD格式样式表
 
-# H1 文章内页的主标题
-## H2 文章列表的标题
+![bg](assets/pic/empty.png)
+
+
+# H1 内页标题
+## H2 列表标题
 ### H3
 #### H4
 ##### H5
@@ -35,4 +37,4 @@ _斜体和粗体_
 
 ![bg](assets/pic/empty.png)
 
-[<   back](./)
+[Back](./)
