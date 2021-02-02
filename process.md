@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: context
 ---
 
 <div class="time">Feb 2,2021</div>
