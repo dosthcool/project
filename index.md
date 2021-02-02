@@ -15,6 +15,11 @@
 ## [Markdown所有样式][1]
 展示一下本站所有Markdown的基础样式。
 
+<div style="margin-bottom: 24px;">
+        <div class="time">{{ page.date }}</div>
+        <h1>{{ page.title }}</h1>
+        <tag>{{ page.tags }}</tag>
+</div>
 
 
 <!-- 文章链接 -->
