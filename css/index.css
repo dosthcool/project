@@ -7,6 +7,7 @@ body {
   font: 12px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#565656;
   border: 8px solid #F7C6D1;
+  height: 100%;
 }
 
 .top {
