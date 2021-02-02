@@ -3,7 +3,7 @@
 
 body {
   padding:50px;
-  font: 14px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#565656;
   border: 8px solid #F7C6D1;
   height: 100%;
@@ -16,7 +16,6 @@ body {
   height: 40px;
   margin-top: 24px;
   margin-bottom: 48px;
-  font-size: 14px;
 }
 
 .back {
@@ -24,7 +23,7 @@ body {
 }
 
 p{
-  font-size: 14px;
+  font-size: 16px;
 }
 
 

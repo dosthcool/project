@@ -1,12 +1,8 @@
 ---
-layout: default
+layout: post
+title: 所有MD格式样式表
+date: Feb 2,2021
 ---
-
-<div class="time">Feb 2,2021</div>
-
-# 所有MD格式样式表
-
-![bg](assets/pic/empty.png)
 
 
 # H1 内页标题
@@ -33,7 +29,3 @@ _斜体和粗体_
 1. 收集周围的绿色
 2. 给一年后的自己写一封信（每年年终）
 3. 收集所有自己的笑脸（笑脸墙）[go beta](smilewall)
-
-![bg](assets/pic/empty.png)
-
-[Back](./)
