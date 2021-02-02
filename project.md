@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="time">Feb 2,2021</div>[Blog](./)
+<div class="time">Feb 2,2021</div>
 
 # 所有MD格式样式表
 

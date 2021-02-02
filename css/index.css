@@ -7,6 +7,7 @@ body {
   color:#565656;
   border: 8px solid #F7C6D1;
   height: 100%;
+  line-height: 1.1;
 }
 
 .top {
@@ -14,9 +15,7 @@ body {
   float: right;
   height: 40px;
   margin-top: 24px;
-  /*border-bottom: 1px solid #CCC;*/
   margin-bottom: 48px;
-  /*width: 100%;*/
   font-size: 14px;
 }
 
@@ -33,13 +32,12 @@ p, ul, ol, table, pre, dl {
   margin:0 0 10px;
 }
 
-h1, h2, h3 {
-  /*line-height:0.5rem;*/
-}
+
 
 h1 {
   font-size: 3rem;
   font-weight: 400;
+  border-bottom: 1px solid #CCC;
 }
 
 h2 {
@@ -69,7 +67,6 @@ h6 {
 
 .time {
   color: #CCC;
-  font-size: 12px;
   margin-top: 48px;
 }
 
