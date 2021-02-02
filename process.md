@@ -1,5 +1,5 @@
 ---
-layout: context
+layout: post
 ---
 
 <div class="time">Feb 2,2021</div>

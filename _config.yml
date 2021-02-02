@@ -1,3 +1,13 @@
 title: Christina Cao
 description: Product Designer
-theme: jekyll-theme-minimal
+author: Christina Cao
+# theme: jekyll-theme-minimal
+email: chomoon@qq.com
+copyright: Copyright © 2021-2021
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-spaceship
+favicon: "favicon.ico"
