@@ -8,6 +8,11 @@ body {
   color:#565656;
 }
 
+.top {
+  float:left;
+  position:fixed;
+}
+
 p{
   font-size: 14px;
   font-size: 1rem;
@@ -73,9 +78,12 @@ a {
   text-decoration:none;
 }
 
+
 a:hover, a:focus {
   color:#565656;
+  border-bottom: 5px solid #F7C6D1;
 }
+
 
 a:visited{
   color:#565656;
