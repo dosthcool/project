@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 <!-- 文章需要倒叙排列，都有唯一的ID。 -->
@@ -32,7 +32,7 @@ layout: home
 [image-3]:	assets/pic/empty.png
 
 
----
+<!-- ---
 layout: default
 ---
 {%- include header.html -%}
@@ -59,4 +59,4 @@ layout: default
   {%- endfor -%}
   {%- include pagination.html -%}
 </main>
-{%- include footer.html -%}
+{%- include footer.html -%} -->
