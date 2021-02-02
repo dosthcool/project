@@ -9,8 +9,15 @@ body {
 }
 
 .top {
-  float:left;
   position:fixed;
+  height: 40px;
+  margin: 24px;
+  border-bottom: 1px solid #CCC;
+}
+
+.back {
+  float: right;
+  font-size: 14px;
 }
 
 p{
@@ -40,7 +47,6 @@ h1 {
 h2 {
   font-size: 2.5rem;
   font-weight: 300;
-  margin-top: 4rem;
   margin-bottom: 2rem;
 }
 
@@ -62,6 +68,11 @@ h5 {
 h6 {
   font-size: 1.25rem;
   font-weight: 500;
+}
+
+.time {
+  color: #CCC;
+  margin-top: 48px;
 }
 
 button {
