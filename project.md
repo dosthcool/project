@@ -2,9 +2,10 @@
 layout: default
 ---
 
+<div class="time">Feb 2,2021</div>[Blog](./)
 
 # 所有MD格式样式表
-<div class="time">Feb 2,2021</div>
+
 ![bg](assets/pic/empty.png)
 
 
