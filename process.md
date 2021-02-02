@@ -1,10 +1,11 @@
 ---
 layout: post
+title: 我常用的设计流程
 ---
 
 <div class="time">Feb 2,2021</div>
 
-# 所有MD格式样式表
+# {{ page.title }}
 
 ![bg](assets/pic/empty.png)
 
