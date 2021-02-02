@@ -94,11 +94,15 @@ a {
 }
 
 
-body a:hover, a:focus {
+a:hover, a:focus {
   color: #565656;
   border-bottom: 5px solid #F7C6D1;
 }
 
+header a:hover, a:focus {
+  color: #565656;
+  border-bottom: none;
+}
 
 body a:visited{
   color:#565656;
