@@ -37,7 +37,25 @@
 
         {{ content }}
 
+
       </section>
+
+      
+<div style="margin-bottom: 24px;">
+        <div class="time">{{ page.date }}</div>
+        <h1>{{ page.title }}</h1>
+        <tag>{{ page.tags }}</tag>
+</div>
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>

@@ -1,9 +1,9 @@
+---
+layout: default
+---
+
 <!-- 文章需要倒叙排列，都有唯一的ID。 -->
 
-
-<!-- <div class="time">Feb 2,2021</div>
-## [我所理解的产品设计师][3]
-很乐意为有趣的项目消费时光 -->
 
 
 <div class="time">Feb 2,2021</div>
@@ -15,20 +15,6 @@
 ## [Markdown所有样式][1]
 展示一下本站所有Markdown的基础样式。
 
-<div style="margin-bottom: 24px;">
-        <div class="time">{{ page.date }}</div>
-        <h1>{{ page.title }}</h1>
-        <tag>{{ page.tags }}</tag>
-</div>
-
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
 
 
 <!-- 文章链接 -->
