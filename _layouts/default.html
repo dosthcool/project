@@ -22,19 +22,15 @@
     <div class="wrapper">
     <!-- <div class="container"> -->
       <header>
-        <img src="img/header.png" style="width: 120px;">
+        <a href="{{ site.github.url }}"><img src="img/header.png" style="width: 120px;"></a>
         <!-- <img src="../blog/assets/pic/header.JPG" width="100%"><br><br> -->
         <a href="{{ site.github.url }}"> <h1>Do sth cool</h1> </a>
 
         {% if site.github.is_project_page %}
-          <!-- <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub {{ github_name }}</a><br> -->
-          <p style="margin-top: 24px;">Hello</p>
         {% endif %}
 
         {% if site.github.is_user_page %}
           <!-- <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p> -->
-           
-           
           {% endif %}
       </header>
       <section>
