@@ -30,3 +30,13 @@ layout: default
 [image-1]:	assets/pic/empty1.png
 [image-2]:	assets/pic/empty1.png
 [image-3]:	assets/pic/empty.png
+
+{{ site.posts }}
+
+  <ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
