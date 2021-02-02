@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 ---
 
 <!-- 文章需要倒叙排列，都有唯一的ID。 -->
