@@ -37,8 +37,8 @@ p, ul, ol, table, pre, dl {
 h1 {
   font-size: 3rem;
   font-weight: 400;
-  border-bottom: 1px solid #CCC;
-  padding-bottom: 4px;
+  border-bottom: 1px solid #DDD;
+  padding-bottom: 12px;
 }
 
 h2 {
