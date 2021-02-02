@@ -16,10 +16,11 @@ body {
   /*border-bottom: 1px solid #CCC;*/
   margin-bottom: 48px;
   /*width: 100%;*/
+  font-size: 14px;
 }
 
 .back {
-  font-size: 14px;
+  margin-left: 24px;
 }
 
 p{
