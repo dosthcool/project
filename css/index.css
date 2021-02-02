@@ -2,7 +2,6 @@
 @import "rouge-github";
 
 body {
-  /*background-color: #fff;*/
   padding:50px;
   font: 12px "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#565656;
@@ -27,27 +26,20 @@ body {
 
 p{
   font-size: 14px;
-  font-size: 1rem;
-  /*line-height: 0.5rem;*/
 }
 
-
-h1, h2, h3, h4, h5, h6 {
-  /*color:#222;*/
-  /*margin:0 0 10px;*/
-}
 
 p, ul, ol, table, pre, dl {
   margin:0 0 10px;
 }
 
 h1, h2, h3 {
-  line-height:0.5;
+  /*line-height:0.5rem;*/
 }
 
 h1 {
   font-size: 3rem;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 h2 {
