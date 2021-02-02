@@ -22,6 +22,15 @@
 </div>
 
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
 <!-- 文章链接 -->
 
 [1]:	project
