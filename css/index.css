@@ -13,9 +13,9 @@ body {
   float: right;
   height: 40px;
   margin: 24px;
-  border-bottom: 1px solid #CCC;
+  /*border-bottom: 1px solid #CCC;*/
   margin-bottom: 48px;
-  width: 100%;
+  /*width: 100%;*/
 }
 
 .back {
@@ -116,7 +116,6 @@ a:hover small {
 .wrapper {
   width:860px;
   margin:0 auto;
-  float: left;
 }
 
 blockquote {
@@ -165,9 +164,9 @@ img {
 }
 
 header {
-  /*width:270px;*/
-  /*float:left;*/
-  /*position:fixed;*/
+  width:270px;
+  float:left;
+  position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
