@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 我常用的设计流程
+date: Feb 2,2021
 ---
 
 <div class="time">Feb 2,2021</div>
@@ -14,5 +15,3 @@ title: 我常用的设计流程
 ![bg](img/process.png)
 
 ![bg](assets/pic/empty.png)
-
-[Back](./)
