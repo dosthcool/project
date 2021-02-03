@@ -19,12 +19,3 @@ layout: default
 
 [1]:	project
 [2]:	process
-[3]:	about
-
-
-
-<!-- 图片链接 -->
-
-[image-1]:	assets/pic/empty1.png
-[image-2]:	assets/pic/empty1.png
-[image-3]:	assets/pic/empty.png

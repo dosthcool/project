@@ -12,10 +12,3 @@ plugins:
   - jekyll-spaceship
 favicon: "favicon.ico"
 paginate: 5
-defaults:
-  -
-    scope:
-      path: "posts"
-      type: "posts"
-    values:
-      layout: "my-site"
