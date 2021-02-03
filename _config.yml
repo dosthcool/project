@@ -1,5 +1,6 @@
 title: Christina Cao
 description: Product Designer
+<<<<<<< HEAD
 author: Christina Cao
 # theme: jekyll-theme-minimal
 email: chomoon@qq.com
@@ -15,3 +16,6 @@ plugins:
   - jekyll-spaceship
 favicon: "favicon.ico"
 >>>>>>> parent of a56dba1... 34
+=======
+theme: jekyll-theme-minimal
+>>>>>>> parent of 3352ba1... 21
