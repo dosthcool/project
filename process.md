@@ -1,13 +1,9 @@
 ---
-<<<<<<< HEAD
 layout: post
 title: 我常用的设计流程
 date: Feb 2,2021
 categories: UX Design
 permalink: process
-=======
-layout: context
->>>>>>> parent of 3352ba1... 21
 ---
 
 
