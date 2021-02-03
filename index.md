@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 <div class="time">Feb 2,2021</div>
 ## [我常用的设计流程][2]
