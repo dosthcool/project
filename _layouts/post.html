@@ -8,6 +8,10 @@ layout: default
 <div style="padding-top: 40px">
 	{{ content }}
 </div>
-{% include list.html %}
 
-<!-- {% include back.html %} -->
+<section style="margin: 48px 0px;">
+    {% include list.html %}
+        <div style="text-align: right;">
+          {% include footer.html %}
+        </div>
+</section>
