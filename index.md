@@ -11,7 +11,13 @@ layout: default
 ## [Markdown所有样式][1]
 展示一下本站所有Markdown的基础样式。
 
-{% include list.html %}
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 <!-- 文章链接 -->
 

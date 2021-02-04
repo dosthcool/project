@@ -34,13 +34,13 @@ p{
 
 ul, ol, table, pre, dl {
   margin:0 0 10px;
+  line-height: 1.6;
 }
-
 
 h1 {
   font-size: 3rem;
   font-weight: 400;
-  border-bottom: 0px solid #F7C6D1;
+  border-bottom: 0px solid #FFFFFF;
 }
 
 h2 {
