@@ -23,8 +23,14 @@ body {
   font-size: 16px;
 }
 
-.tag{
-  background-color: #111;
+.list {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.list .post {
+  color: #F7C6D1;
+  font-size: 16px;
 }
 
 p{
