@@ -13,5 +13,5 @@ layout: default
 
 <!-- 文章链接 -->
 
-[1]:	project
-[2]:	process
+[1]:	post/project
+[2]:	post/process
