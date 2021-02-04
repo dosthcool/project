@@ -90,7 +90,7 @@ h6 {
 
 .time {
   color: #CCC;
-  margin-top: 64px;
+  /*margin-top: 64px;*/
   font-size: 1rem;
   font-weight: 400;
 }
