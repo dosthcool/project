@@ -4,7 +4,7 @@
 body {
   padding:50px;
   font-family: "zh quote", -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", 微软雅黑, sans-serif, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  color:#565656;
+  color:#111;
   border: 8px solid #F7C6D1;
   height: 100%;
   line-height: 1.1;
@@ -45,25 +45,25 @@ ul, ol, table, pre, dl {
 }
 
 h1 {
-  font-size: 3rem;
-  font-weight: 500;
+  font-size: 2.8rem;
+  font-weight: 450;
   border-bottom: 0px solid #FFFFFF;
 }
 
 h2 {
   font-size: 2.1rem;
-  font-weight: 500;
+  font-weight: 450;
 }
 
 h3 {
   font-size: 1.6rem;
-  font-weight: 400;
-  line-height: 1.6;
-  margin: 24px 0px 8px;
+  font-weight: 450;
+  /*line-height: 1.6;*/
+  margin: 36px 0px 0px;
 }
 
 h4 {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   font-weight: 400;
   margin: 24px 0px 8px;
 }
@@ -90,7 +90,7 @@ h6 {
 
 .time {
   color: #CCC;
-  /*margin-top: 64px;*/
+  margin-top: 16px;
   font-size: 1rem;
   font-weight: 400;
 }
@@ -309,4 +309,8 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+br{
+  height: 24px;
 }
