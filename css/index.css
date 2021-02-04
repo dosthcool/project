@@ -46,18 +46,17 @@ ul, ol, table, pre, dl {
 
 h1 {
   font-size: 3rem;
-  font-weight: 400;
+  font-weight: 500;
   border-bottom: 0px solid #FFFFFF;
 }
 
 h2 {
   font-size: 2.1rem;
-  font-weight: 400;
-
+  font-weight: 500;
 }
 
 h3 {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   font-weight: 400;
   line-height: 1.6;
   margin: 24px 0px 8px;
@@ -94,7 +93,6 @@ h6 {
   margin-top: 64px;
   font-size: 1rem;
   font-weight: 400;
-  /*margin-top: 48px;*/
 }
 
 .post{
