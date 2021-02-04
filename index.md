@@ -6,7 +6,8 @@ layout: default
 理想化下（没有外部因素压制）设计一个功能或者是产品的流程。
 这个流程通常也可以运用于独立完成一个项目或者设计测试题。
 > 设计思维是我的工具箱，设计流程是一套组合拳，要想致命就要选好组合。
-![bg](post/img/1_1.png)
+
+![bg](img/1_1.png)
 
 
 <div class="post"></div>
@@ -17,5 +18,5 @@ layout: default
 
 <!-- 文章链接 -->
 
-[1]:	post/project
-[2]:	post/process
+[1]:	project
+[2]:	process
