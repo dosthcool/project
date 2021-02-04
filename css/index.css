@@ -147,15 +147,16 @@ a:hover small {
 }
 
 blockquote {
-  border-left:1px solid #e5e5e5;
+  /*border-left:2px solid #F7C6D1;*/
   margin:0;
-  padding:0 0 0 20px;
+  padding:0 0 0 24px;
   font-style:italic;
 }
 
 blockquote p{
   font-size: 18px;
   color:#888888;
+  line-height: 1.6;
 }
 
 code, pre {
