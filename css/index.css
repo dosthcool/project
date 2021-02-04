@@ -69,12 +69,16 @@ h6 {
   font-weight: 500;
 }
 
+span {
+  margin-right: 40px;
+}
+
 .time {
   color: #CCC;
   margin-top: 64px;
   font-size: 1rem;
   font-weight: 400;
-  margin-top: 48px;
+  /*margin-top: 48px;*/
 }
 
 .post{
@@ -206,7 +210,7 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
   font-size: 16px;
-  text-align: center;
+  text-align: right;
 }
 
 @media print, screen and (max-width: 960px) {
