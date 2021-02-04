@@ -4,7 +4,7 @@
 body {
   padding:50px;
   font-family: "zh quote", -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", 微软雅黑, sans-serif, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  color:#111;
+  color:#292929;
   border: 8px solid #F7C6D1;
   height: 100%;
   line-height: 1.1;
@@ -32,7 +32,8 @@ body {
 
 p{
   font-size: 16px;
-  line-height: 1.6;
+  line-height: 1.8;
+  padding: 16px 0px;
 }
 
 h1,h2 {
@@ -63,9 +64,9 @@ h3 {
 }
 
 h4 {
-  font-size: 1.4rem;
-  font-weight: 400;
-  margin: 24px 0px 8px;
+  font-size: 1.2rem;
+  font-weight: 450;
+  margin: 36px 0px 8px;
 }
 
 h5 {
