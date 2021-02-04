@@ -40,6 +40,7 @@ ul, ol, table, pre, dl {
 h1 {
   font-size: 3rem;
   font-weight: 400;
+  border-bottom: 0px solid #F7C6D1;
 }
 
 h2 {
