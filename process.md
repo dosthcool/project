@@ -2,10 +2,6 @@
 layout: post
 title: 我常用的设计流程
 date: Feb 2,2021
-categories: UX Design
-excerpt: 理想化下（没有外部因素压制）设计一个功能或者是产品的流程，这个流程通常也可以运用于独立完成一个项目或者设计测试题。
-tags:none
-
 ---
 
 
