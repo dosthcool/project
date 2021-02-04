@@ -19,7 +19,8 @@ body {
 }
 
 .back {
-  margin-left: 24px;
+  color:#F7C6D1;
+  font-size: 16px;
 }
 
 .tag{
@@ -32,7 +33,7 @@ p{
 }
 
 h1,h2,h3,h4,h5,h6 {
-  margin: 0 0 10px;
+  margin: 10px 0px;
 }
 
 ul, ol, table, pre, dl {
