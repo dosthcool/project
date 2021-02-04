@@ -9,14 +9,6 @@ layout: default
 ## [Markdown所有样式][1]
 展示一下本站所有Markdown的基础样式。
 
-<!-- <ul>
-  {% for page in site.posts %}
-    <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
- -->
 <!-- 文章链接 -->
 
 [1]:	project
