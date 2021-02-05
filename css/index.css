@@ -6,7 +6,7 @@ body {
   font-family: "zh quote", -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans", "Noto Sans CJK SC", "Microsoft YaHei", 微软雅黑, sans-serif, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   color:#565656;
   border: 8px solid #F7C6D1;
-  height: 100vh;
+  height: 100%;
   line-height: 1.1;
 }
 
