@@ -13,7 +13,15 @@ layout: default
 ## [Markdown所有样式][1]
 展示一下本站所有Markdown的基础样式。
 
+<div class="post"></div>
+
+<div class="time">Feb 5,2021</div>
+## [我的数字货币之旅][3]
+误打误撞进入区块链行业，于是开始学习操作数字货币，都是非常非常基础的经验。
+源于对“区块链”技术的向往，对互联网的一些反感。
+
 <!-- 文章链接 -->
 
 [1]:	project
 [2]:	process
+[3]:	coin
